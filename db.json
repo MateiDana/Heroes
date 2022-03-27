@@ -1,0 +1,100 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "nume": "Clark",
+      "surname": "Kent",
+      "heroName": "Super Man ",
+      "superpowersId": 3
+    },
+    {
+      "id": 2,
+      "nume": "Paul",
+      "surname": "Shan",
+      "heroName": "Green Lantern",
+      "superpowersId": 3
+    },
+    {
+      "id": 3,
+      "nume": "Marvel",
+      "surname": "Comis",
+      "heroName": "Zoro",
+      "superpowersId": 3
+    },
+    {
+      "id": 4,
+      "nume": "Tony",
+      "surname": "Stark",
+      "heroName": "Iron Man",
+      "superpowersId": 5
+    },
+    {
+      "id": 5,
+      "nume": "Diana",
+      "surname": "Galp",
+      "heroName": "Wonder Woman",
+      "superpowersId": 5
+    },
+    {
+      "id": 6,
+      "nume": "Chris",
+      "surname": "Hemsworth",
+      "heroName": "Thor",
+      "superpowersId": 6
+    },
+    {
+      "id": 7,
+      "nume": "Steve",
+      "surname": "Rogers",
+      "heroName": "Captain America",
+      "superpowersId": 1
+    },
+    {
+      "id": 8,
+      "nume": "Bruce",
+      "surname": "Banner",
+      "heroName": "Hulk",
+      "superpowersId": 3
+    },
+    {
+      "id": 9,
+      "nume": "Jordan",
+      "surname": "Hal",
+      "heroName": "Green Lantern",
+      "superpowersId": 2
+    },
+    {
+      "id": 10,
+      "nume": "Tony",
+      "surname": "Stark",
+      "heroName": "Iron Man",
+      "superpowersId": 2
+    }
+  ],
+  "superpowers": [
+    {
+      "id": 1,
+      "nameSuperPower": "force"
+    },
+    {
+      "id": 2,
+      "nameSuperPower": "teleportation"
+    },
+    {
+      "id": 3,
+      "nameSuperPower": "super speed"
+    },
+    {
+      "id": 4,
+      "nameSuperPower": "mind control"
+    },
+    {
+      "id": 5,
+      "nameSuperPower": "flying"
+    },
+    {
+      "id": 6,
+      "nameSuperPower": "invisibility"
+    }
+  ]
+}
